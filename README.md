@@ -11,7 +11,7 @@ Par exemple, la grille parue le 23 décembre 2019 et de niveau facile a pour nom
 
 ## Fonctionnement du programme
 
-**Pour l'instant, ce programme ne fonctionne que en __console__ et pour des Sudoku de __niveau Facile__. Nous sommes en train de travailler à l'implémentation graphique, ainsi qu'à l'amélioration de l'algorithme pour des Sudoku plus difficiles.**
+**Pour l'instant, ce programme ne fonctionne que en console et pour des Sudokus de niveau Facile. Nous sommes en train de travailler à l'implémentation graphique, ainsi qu'à l'amélioration de l'algorithme pour des Sudokus plus difficiles.**
 
 Lorque vous lancez le programme, celui-ci vous demande de charger une grille afin qu'il essaie de la compléter. Le fichier contenant la grille doit se trouver dans le même dossier que l'exécutable ou dans le dossier `grilles`. Il suffit d'indiquer le nom du fichier, mais sans l'extension `.sudoku` (celle-ci sera rajoutée automatiquement).
 
